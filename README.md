@@ -1,2 +1,3 @@
 # demo-0bab67
-Auto generated demo site for ㈱ザ･ハウス
+
+AIによって自動生成された ㈱ザ･ハウス 様向けのデモサイトです。
